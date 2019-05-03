@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ce699930f5fdf4243aa1351a4645e88a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerPawn: {fileID: 100000, guid: f8672f6f7bd7b48679bf2c41623f2730, type: 2}
+  - enemyPawn: {fileID: 100000, guid: ad3e0bc76760d4296aafc9f95bebb592, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
